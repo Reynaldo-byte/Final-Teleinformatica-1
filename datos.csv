@@ -1,0 +1,37 @@
+Nombre de la variable	Especificación de la variable	Lectura	
+Puntaje SocioEconomico	Es determinado mediante la sumatoria de las demas variables socioeconomicas		
+Internet	Da cuenta de si la familia del evaluado cuenta con  el bien y/o servicio 	SI	1
+		NO	0
+Television		SI	1
+		NO	0
+Computador		SI	1
+		NO	0
+Lavadora		SI	1
+		NO	0
+Microondas		SI	1
+		NO	0
+Automovil		SI	1
+		NO	0
+Motocicleta		SI	1
+		NO	0
+Consola		SI	1
+		NO	0
+Cantida de Libros	Cantidad de libros por familia	0 a 25	0
+		26 a 50	1
+		50 a 100 	2
+		más de 100	3
+Consumo de lacteos	Frecuencia de consumo de alimentos	ninguna vez	0
+		 1 a 3 veces	1
+		4 o 5 veces	2
+		diario	3
+Consumo de pescado y huevo		ninguna vez	0
+		 1 a 3 veces	1
+		4 o 5 veces	2
+		diario	3
+Consumo de cereales, frutas yh legumbres		ninguna vez	0
+		 1 a 3 veces	1
+		4 o 5 veces	2
+		diario	3
+Situación economica familiar	Estado economico de la familia	mala	0
+		regular	1
+		buena	2
